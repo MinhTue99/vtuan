@@ -1,12 +1,4 @@
-## Info
-👤 Name: TNTXTRICK
-
-🌐 Fb: https://www.facebook.com/tntxtrick
-
-🔐 Github: https://github.com/TNTxTrick
-
-## Hướng dẫn sử dụng file của TNT
-B1: Qua shell, nhập:
+## Hướng dẫn sử dụng file
 ```
 npm i
 ```
